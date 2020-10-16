@@ -84,7 +84,17 @@ DATABASES = {
     }
 }
 
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME':  'mkdmtmix',
+        'USER': 'mkdmtmix',
+        'PASSWORD': 'edKVZLiTm3qRAlA3yu6xPLYke_p8z0Yk',
+        'HOST': 'hattie.db.elephantsql.com',
+        'PORT': 5432,
 
+    }
+}
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
 
