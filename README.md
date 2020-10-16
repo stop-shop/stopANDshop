@@ -7,4 +7,4 @@
 
 ## Wareframe
 
-- ![img](https://drive.google.com/file/d/1OLlmwo2AvToYwMwS5Z5iVKiTi0RPGFh8/view?usp=sharing)
+- ![img](https://ibb.co/p27dB1w)
